@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UF1_ACT8" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FF0000</item> <!-- Red -->
+        <item name="colorPrimaryDark">#000000</item> <!-- Black -->
+        <item name="colorAccent">#FFFFFF</item> <!-- White -->
+    </style>
+</resources>
